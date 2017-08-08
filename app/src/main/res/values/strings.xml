@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="names">
+        <item>"iphone"</item>
+        <item>"lenovo"</item>
+        <item>"moto"</item>
+        <item>"Samsung Galaxy"</item>
+    </string-array>
+    <string-array name="amount">
+        <item>"Rs.51,000"</item>
+        <item>"Rs.13,000"</item>
+        <item>"Rs.10,000"</item>
+        <item>"Rs.30,000"</item>
+    </string-array>
+    <string-array name="offer">
+        <item>"20% OFF"</item>
+        <item>"30% OFF"</item>
+        <item>"11% OFF"</item>
+        <item>"26% OFF"</item>
+    </string-array>
+    <string-array name="rating">
+        <item>"120 ratings &amp; 29 reviews"</item>
+        <item>"305 ratings &amp; 18 reviews"</item>
+        <item>"50 ratings &amp; 10 reviews"</item>
+        <item>"240 ratings &amp; 40 reviews"</item>
+    </string-array>
+</resources>
